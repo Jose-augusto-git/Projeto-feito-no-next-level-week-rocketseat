@@ -1,0 +1,3 @@
+instalando sqlite no projeto
+
+npm install sqlite-async

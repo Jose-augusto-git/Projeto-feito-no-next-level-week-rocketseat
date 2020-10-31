@@ -1,0 +1,17 @@
+plugin de servidor Live Server
+
+atalho ->! mais enter<- aparece todaa parte basica do <!doctype>
+
+conteiner sao caixar que tem conteudos dentro  
+
+tag main e a onde vai ficar o conteudo principal da pagina
+
+
+
+_____________________________________________________
+|*{                                                 |
+|    margin:0;                                      |
+|    padding: 0;   essa parte e um seletor universal|
+|                  pega todos os elementos possiveis| 
+|}                 como prenchimento e margem       |
+|___________________________________________________|
